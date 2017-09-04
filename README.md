@@ -185,9 +185,9 @@ It's a long plan. It may take you months. If you are familiar with a lot of this
 
 You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
 
-- C++
-- Java
-- Python
+- ~~C++~~
+- ~~Java~~
+- **Python**
 
 ~~You could also use these, but read around first. There may be caveats:~~
 
