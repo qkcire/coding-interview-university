@@ -162,14 +162,6 @@ It's a long plan. It may take you months. If you are familiar with a lot of this
 - ~~[The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)~~
 - ~~[It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)~~
 
-## About Video Resources
-
-Some videos are available only by enrolling in a Coursera, EdX, or Lynda.com class. These are called MOOCs.
-Sometimes the classes are not in session so you have to wait a couple of months, so you have no access. Lynda.com courses are not free.
-
-    I'd appreciate your help to add free and always-available public sources, such as YouTube videos to accompany the online course videos.
-    I like using university lectures.
-
 
 ## Interview Process & General Interview Prep
 
