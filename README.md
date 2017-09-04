@@ -156,39 +156,11 @@ thousands of associative arrays, but I've never created data structures from scr
 
 It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
 
-## How to use it
-
-Everything below is an outline, and you should tackle the items in order from top to bottom.
-
-I'm using Github's special markdown flavor, including tasks lists to check progress.
-
-**Create a new branch so you can check items like this, just put an x in the brackets: [x]**
-
-
-    Fork a branch and follow the commands below
-
-`git checkout -b progress`
-
-`git remote add jwasham https://github.com/jwasham/coding-interview-university`
-
-`git fetch --all`
-
-    Mark all boxes with X after you completed your changes
-
-`git add . `
-
-`git commit -m "Marked x" `
-
-`git rebase jwasham/master `
-
-`git push --force `
-
-[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
 ## Don't feel you aren't smart enough
+
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- ~~[The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)~~
+- ~~[It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)~~
 
 ## About Video Resources
 
