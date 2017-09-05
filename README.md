@@ -8,18 +8,14 @@ Each day I take one subject from the list below, watch videos about that subject
 - and write tests to ensure you're doing it right, sometimes just using simple assert() statements
 
 Why code in all of these?
-- Practice, practice, practice, until your sick of it, and can do it with no problem (some have many edge cases and bookkeeping details to remember)
+- Practice, practice, practice, until you're sick of it, and can do it with no problem (some have many edge cases and bookkeeping details to remember)
 - Work within the raw constraints (allocating/freeing memory without help of garbage collection (except Python))
 - Make use of built-in types so I have experience using the built-in tools for real-world use (not going to write my own linked list implementation in production)
-
-I may not have time to do all of these for every subject, but I'll try.
 
 You can see my code here:
  - [C](https://github.com/jwasham/practice-c)
  - [C++](https://github.com/jwasham/practice-cpp)
  - [Python](https://github.com/jwasham/practice-python)
-
-You don't need to memorize the guts of every algorithm.
 
 Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
 
