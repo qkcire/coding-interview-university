@@ -8,7 +8,7 @@ Each day I take one subject from the list below, watch videos about that subject
 - and write tests to ensure you're doing it right, sometimes just using simple assert() statements
 
 Why code in all of these?
-- Practice, practice, practice, until you're sick of it, and can do it with no problem (some have many edge cases and bookkeeping details to remember)
+- Practice, practice, practice, until you're sick of it, and can do it with no problem
 - Work within the raw constraints (allocating/freeing memory without help of garbage collection (except Python))
 - Make use of built-in types so I have experience using the built-in tools for real-world use (not going to write my own linked list implementation in production)
 
