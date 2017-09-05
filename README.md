@@ -1,6 +1,6 @@
 ## The Daily Plan
 
-Each day I take one subject from the list below, watch videos about that subject, and write an implementation in:
+Each day, take one subject from the list below, watch videos about that subject, and write an implementation in:
 - C - using structs and functions that take a struct * and something else as args.
 - C++ - without using built-in types
 - C++ - using built-in types, like STL's std::list for a linked list
